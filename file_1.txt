@@ -1,3 +1,4 @@
+Line 0
 Line 1
 How's this for line 2?
 Yada ba dadda!!
